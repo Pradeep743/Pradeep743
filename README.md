@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Pradeep743
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m Pradeep
+- 🌱 I’m a Front-end web developer
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 - email: pradeeps9967@gmail.com
