@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a frontend web developer.<br>Currently learning ReactJS<br>
+I'm a frontend web developer.<br>Looking for a job...<br>
 
 
 ## 🌐 Socials:
