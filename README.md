@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a frontend web developer.<br>Looking for new opportunities...<br>
 
 
