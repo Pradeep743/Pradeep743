@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a frontend web developer.<br>Looking for a job...<br>
+I'm a frontend web developer.<br>Looking for new opportunities...<br>
 
 
 ## 🌐 Socials:
