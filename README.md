@@ -1,7 +1,7 @@
 # About Me:
 I like to bring designs to life and create visually appealing and interactive user interfaces..<br>
 🚀 Learning React <br>
-📧 Contact: pradeeps9967@gmail.com
+📧 Contact: pradeeps9967@gmail.com <br>
 💻 [Portfolio](https://pradeep743.github.io/Portfolio/)
 
 
